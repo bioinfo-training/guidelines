@@ -17,7 +17,7 @@ Let's start!
 {% tab title="Newsletter" %}
 {% embed url="https://landing.mailerlite.com/webforms/landing/b5q3a7" %}
 {% endtab %}
-
+{% endtabs %}
 url="https://bioinfolmics.slack.com/"
 
 
