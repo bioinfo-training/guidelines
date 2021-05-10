@@ -12,7 +12,7 @@ Let's start!
 
 #### Connect with us:
 
-## Join [Slack](https://bioinfolmics.slack.com/), our community space <a id="welcome-to-slack"></a>
+##### Join [Slack](https://bioinfolmics.slack.com/), our community space <a id="welcome-to-slack"></a>
 
 
 
