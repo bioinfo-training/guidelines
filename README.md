@@ -16,3 +16,5 @@ Let's start!
 
 
 
+{% tabs %} {% tab title="Newsletter" %} {% embed url="https://landing.mailerlite.com/webforms/landing/b5q3a7" %} {% endtab %}
+{% tab title="Gitter" %} https://gitter.im/OpenCider/community {% endtab %} {% endtabs %}
