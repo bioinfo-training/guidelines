@@ -1,4 +1,4 @@
-# Bioinformatics training in Low-To-Middle Income Countries: Guidelines
+# Bioinformatics training in Low-To-Middle Income Countries
 
 ## Welcome to the guidelines portal
 
