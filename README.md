@@ -13,6 +13,11 @@ Let's start!
 #### Connect with us:
 
 
-{% tabs %} {% tab title="Slack" %} {% embed url="https://bioinfolmics.slack.com/" %} {% endtab %}
+{% tabs %}
+{% tab title="Newsletter" %}
+{% embed url="https://landing.mailerlite.com/webforms/landing/b5q3a7" %}
+{% endtab %}
+
+url="https://bioinfolmics.slack.com/"
 
 
