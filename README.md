@@ -12,12 +12,7 @@ Let's start!
 
 #### Connect with us:
 
+## Join [Slack](https://bioinfolmics.slack.com/), our community Slack space <a id="welcome-to-opencider-open-computational-inclusion-and-digital-equity-resource"></a>
 
-{% tabs %}
-{% tab title="Newsletter" %}
-{% embed url="https://landing.mailerlite.com/webforms/landing/b5q3a7" %}
-{% endtab %}
-{% endtabs %}
-url="https://bioinfolmics.slack.com/"
 
 
