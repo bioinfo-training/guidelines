@@ -13,8 +13,3 @@ Let's start!
 #### Connect with us:
 
 ##### Join [Slack](https://bioinfolmics.slack.com/), our community space <a id="welcome-to-slack"></a>
-
-
-
-{% tabs %} {% tab title="Newsletter" %} {% embed url="https://landing.mailerlite.com/webforms/landing/b5q3a7" %} {% endtab %}
-{% tab title="Gitter" %} https://gitter.im/OpenCider/community {% endtab %} {% endtabs %}
