@@ -12,9 +12,6 @@ Let's start!
 
 #### Connect with us:
 
-{% tabs %}
-{% tab title="Slack" %}
-{% embed url="https://bioinfolmics.slack.com/" %}
-{% endtab %}
+{% tabs %}{% tab title="Slack" %}{% embed url="https://bioinfolmics.slack.com/" %}{% endtab %}
 
 
