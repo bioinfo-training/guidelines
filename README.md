@@ -7,8 +7,10 @@
 > "All documents and information contained herein is a collaborative effort from academics and trainers around the world."  
 
 
+1. Planning your training
 
-Let's start!
+
+
 
 #### Connect with us:
 
