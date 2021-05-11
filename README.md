@@ -7,7 +7,7 @@
 > "All documents and information contained herein is a collaborative effort from academics and trainers around the world."  
 
 
-1. [Introduction](https://bioinfo-training.github.io/Introduction.html)
+1. [Introduction](https://bioinfo-training.github.io/guidelines/Introduction.html)
 2. [Planning your training](https://bioinfo-training.github.io/guidelines/Planning_your_training.html)
 3. [Developing your training](https://bioinfo-training.github.io/guidelines/Developing_your_training.html)
 4. [Implementation of the course](https://bioinfo-training.github.io/guidelines/Implementation_of_the_course.html)
