@@ -8,10 +8,10 @@
 
 
 1. [Introduction](https://bioinfo-training.github.io/Introduction.html)
-2. [Planning your training](https://github.com/bioinfo-training/guidelines/blob/main/Planning_your_training.html)
-3. [Developing your training](https://github.com/bioinfo-training/guidelines/blob/main/Developing_your_training.html)
-4. [Implementation of the course](https://github.com/bioinfo-training/guidelines/blob/main/Implementation_of_the_course.html)
-5. [Course initiation, monitoring and post training](https://github.com/bioinfo-training/guidelines/blob/main/Course_initiation_monitoring_and_post_training.html)
+2. [Planning your training](https://bioinfo-training.github.io/guidelines/Planning_your_training.html)
+3. [Developing your training](https://bioinfo-training.github.io/guidelines/Developing_your_training.html)
+4. [Implementation of the course](https://bioinfo-training.github.io/guidelines/Implementation_of_the_course.html)
+5. [Course initiation, monitoring and post training](https://bioinfo-training.github.io/guidelines/Course_initiation_monitoring_and_post_training.html)
 
 * [References](https://github.com/bioinfo-training/guidelines/blob/main/References.html)
 * [Collaborators](https://github.com/bioinfo-training/guidelines/blob/main/our-team.html)
