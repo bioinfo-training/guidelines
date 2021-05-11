@@ -13,8 +13,8 @@
 4. [Implementation of the course](https://bioinfo-training.github.io/guidelines/Implementation_of_the_course.html)
 5. [Course initiation, monitoring and post training](https://bioinfo-training.github.io/guidelines/Course_initiation_monitoring_and_post_training.html)
 
-* [References](https://github.com/bioinfo-training/guidelines/blob/main/References.html)
-* [Collaborators](https://github.com/bioinfo-training/guidelines/blob/main/our-team.html)
+* [References](https://bioinfo-training.github.io/guidelines/References.html)
+* [Collaborators](https://bioinfo-training.github.io/guidelines/our-team.html)
 
 
 
