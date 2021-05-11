@@ -8,13 +8,13 @@
 
 
 1. [Introduction](https://bioinfo-training.github.io/Introduction.html)
-2. [Planning your training](https://github.com/bioinfo-training/guidelines/blob/main/Planning_your_training.md)
-3. [Developing your training](https://github.com/bioinfo-training/guidelines/blob/main/Developing_your_training.md)
-4. [Implementation of the course](https://github.com/bioinfo-training/guidelines/blob/main/Implementation_of_the_course.md)
-5. [Course initiation, monitoring and post training](https://github.com/bioinfo-training/guidelines/blob/main/Course_initiation_monitoring_and_post_training.md)
+2. [Planning your training](https://github.com/bioinfo-training/guidelines/blob/main/Planning_your_training.html)
+3. [Developing your training](https://github.com/bioinfo-training/guidelines/blob/main/Developing_your_training.html)
+4. [Implementation of the course](https://github.com/bioinfo-training/guidelines/blob/main/Implementation_of_the_course.html)
+5. [Course initiation, monitoring and post training](https://github.com/bioinfo-training/guidelines/blob/main/Course_initiation_monitoring_and_post_training.html)
 
-* [References](https://github.com/bioinfo-training/guidelines/blob/main/References.md)
-* [Collaborators](https://github.com/bioinfo-training/guidelines/blob/main/our-team.md)
+* [References](https://github.com/bioinfo-training/guidelines/blob/main/References.html)
+* [Collaborators](https://github.com/bioinfo-training/guidelines/blob/main/our-team.html)
 
 
 
