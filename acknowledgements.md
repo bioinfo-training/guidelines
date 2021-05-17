@@ -18,4 +18,4 @@ We wish to acknowledge the following organizations for their contribution.
 [ISCB](https://www.iscb.org/)
 ![](images/iscb.png)
 
-[WT](https://www.iscb.org/)
+[WT](https://www.iscb.jpeg/)
