@@ -16,6 +16,6 @@ We wish to acknowledge the following organizations for their contribution.
 ![](images/goblet.png)
 
 [ISCB](https://www.iscb.org/)
-![](images/iscb.png)
+![](images/iscb.jpeg)
 
-[WT](https://www.iscb.jpeg/)
+[WT](https://www.iscb.org/)
